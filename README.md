@@ -14,7 +14,7 @@ python>=3.11 is recommended.
  * `AdapParaEst.py` - function library of Convex-PIML.
  * `bsplines.py` - The function library of generating B-splines.
  * `fast_proximal.py` - The function of Fast Iterative Soft-Thresholding Algorithm (FISTA).
- * 
+   
 ## Citation
 Please cite the following paper if you find the work relevant and useful in your research:
 ```
