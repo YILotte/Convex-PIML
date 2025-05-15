@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: simplines
+Version: 0.1
+Summary: TODO.
+Home-page: https://github.com/ratnania/simplines
+Author: Ahmed RATNANI
+Author-email: ratnaniahmed@gmail.com
+License: LICENSE
+Keywords: math
+License-File: LICENSE
+
+# simplines
+
+Simple and minimalistic library for B-Splines for IGA and CAD
+
+## Install
+
+**Standard mode**
+
+```shell
+python3 -m pip install .
+```
+
+**Development mode**
+
+```shell
+python3 -m pip install --user -e .
+```
